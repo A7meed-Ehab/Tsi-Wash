@@ -21,7 +21,10 @@ section {
   width: 18px;
   aspect-ratio: 18/ 12;
 }
-
+.qr{
+  margin: 0;
+  background-color: #fff;
+}
 /* home section */
 .carousel-inner {
   position: relative;
